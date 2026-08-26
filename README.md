@@ -7,7 +7,6 @@ A modular, lightweight C++ communications library for CanSat flight software, se
 ## Key Features
 * **XBee Framing:** Constructs Transmit Request ('0x10') frames and parses/validates Receive Packet ('0x90') frames with checksum verification.
 * **Payload Codecs:** Serializes 'OutTelemetry' structs and deserializes 'CommandMechanism' or 'CommandTelemetry' payloads.
-* 
 ---
 
 ##  Payload Specification
